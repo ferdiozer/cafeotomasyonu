@@ -30,5 +30,8 @@ at least php 5.4 version recommended
 </p>
 
 
+#### License
+[GPL-2.0 License](./LICENSE).
+
 #### Support
 [For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues)
