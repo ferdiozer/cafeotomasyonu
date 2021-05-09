@@ -13,7 +13,7 @@ Current versions:
 * Admin LTE  2.3.5
 
 
-###### How to use?
+How to use?:
 - replace with your own domain address in  */application/config/config.php* <br/>
 `$config['base_url'] = 'https://jupiter.piyanos.com';`
 - import database on *database.sql* with phpmyadmin
@@ -25,13 +25,8 @@ Current versions:
 ``
 
 
-<p>
-at least php 5.4 version recommended
-</p>
-
-
 #### License
 [GPL-2.0 License](./LICENSE).
 
 #### Support
-[For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues)
+[For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues).
