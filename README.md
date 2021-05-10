@@ -18,17 +18,17 @@ How to use?:
 - replace with your own domain address in  */application/config/config.php* <br/>
 `$config['base_url'] = 'https://jupiter.piyanos.com';`
 - import database on *database.sql* with phpmyadmin
-- Change your database connection in  */application/config/database.php* <br/>
+- Change your database connection in  */application/config/database.php*
 ```
   'username' => 'root',
-    'password' => '',
-    'database' => 'jupiter',
+  'password' => '',
+  'database' => 'jupiter',
 ```
-- Login to Dashboard
-Default login user info
+- Login to Dashboard by mail and password
+(default login user info)
   ```
-  mail : admin@mail.com
-  password:123456
+   admin@mail.com
+  123456
   ```
 
 
