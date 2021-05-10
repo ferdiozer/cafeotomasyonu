@@ -32,6 +32,7 @@ How to use?:
 [For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues).
 
 <hr/>
-![GitHub issues:](https://img.shields.io/github/issues/ferdiozer/cafeotomasyonu)
-![GitHub license:](https://img.shields.io/github/license/ferdiozer/cafeotomasyonu)
+<a href="https://github.com/ferdiozer/cafeotomasyonu/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ferdiozer/cafeotomasyonu"></a>
+<a href="https://github.com/ferdiozer/cafeotomasyonu/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ferdiozer/cafeotomasyonu"></a>
+
 
