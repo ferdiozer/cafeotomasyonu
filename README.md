@@ -19,11 +19,19 @@ How to use?:
 `$config['base_url'] = 'https://jupiter.piyanos.com';`
 - import database on *database.sql* with phpmyadmin
 - Change your database connection in  */application/config/database.php* <br/>
-``
+```
   'username' => 'root',
     'password' => '',
     'database' => 'jupiter',
-``
+```
+- Login to Dashboard
+Default login user info
+  ```
+  mail : admin@mail.com
+  password:123456
+  ```
+
+
 
 
 #### License
