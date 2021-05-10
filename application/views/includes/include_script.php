@@ -9,9 +9,9 @@
 <!-- FastClick -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
 <!-- AdminLTE App -->
-<script src="<?php echo base_url("assets/dist/js/app.min.js");?>"></script>
-<script src="<?php echo base_url("assets/dist/js/custom.js");?>"></script>
-<script src="<?php echo base_url("assets/dist/js/js.cookie.js");?>"></script>
+<script src="<?php echo base_url("assets/js/app.min.js");?>"></script>
+<script src="<?php echo base_url("assets/js/custom.js");?>"></script>
+<script src="<?php echo base_url("assets/js/js.cookie.js");?>"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 

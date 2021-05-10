@@ -7,7 +7,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/admin-lte/2.4.2/css/AdminLTE.min.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/admin-lte/2.4.2/css/skins/skin-red.min.css">
-<link rel="stylesheet" href="<?php echo base_url("assets/panel/dist/css/custom.css");?>">
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="<?php echo base_url("assets/css/custom.css");?>">
 
 <style type="text/css">
     .removeBtn{
