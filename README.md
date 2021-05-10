@@ -24,11 +24,11 @@ How to use?:
   'password' => '',
   'database' => 'jupiter',
 ```
-- Login to Dashboard by mail and password
+- Login to Dashboard by mail and password */Account/login*
 (default login user info)
   ```
    admin@mail.com
-  123456
+   123456
   ```
 
 
