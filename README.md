@@ -30,3 +30,8 @@ How to use?:
 
 #### Support
 [For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues).
+
+<hr/>
+![GitHub issues:](https://img.shields.io/github/issues/ferdiozer/cafeotomasyonu)
+![GitHub license:](https://img.shields.io/github/license/ferdiozer/cafeotomasyonu)
+
