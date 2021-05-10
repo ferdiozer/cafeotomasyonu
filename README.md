@@ -9,8 +9,9 @@
 Current versions:
 
 * Codeigniter 3.1.11
-* Bootstrap 3.3.6
 * Admin LTE  2.3.5
+* Bootstrap 3.3.6
+* jQuery 2.2.3
 
 
 How to use?:
