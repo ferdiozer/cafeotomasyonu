@@ -174,8 +174,7 @@ class User_model extends CI_Model {
             'is_deleted'=>0);
 
         $row = $this->db->where($where_data)->get($this->table)->row();
-        if (count($row) == 1) {
-
+        if ($row and isset($row)) {
             $code = $row->password;
             $id = $row->id;
 
