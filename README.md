@@ -38,7 +38,7 @@ How to use?:
 [GPL-2.0 License](./LICENSE).
 
 #### Support
-[For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues).
+[For your questions](https://github.com/ferdiozer/cafeotomasyonu/issues/new).
 
 <hr/>
 <a href="https://github.com/ferdiozer/cafeotomasyonu/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ferdiozer/cafeotomasyonu"></a>
